@@ -15,7 +15,7 @@ function [I_eq, I_eq_pmf] = my_histeq(I)
     %
     % Outputs：
     %   - I_eq: result image of histogram equalization
-    %   - I_eq_pmf: possibility density function (or statistical result) of
+    %   - I_eq_pmf: possibility mass function (or statistical result) of
     %               the result image
     %
     % Usage：
