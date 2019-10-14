@@ -6,7 +6,7 @@
 - [https://pan.baidu.com/s/1OoNeKcPaYOOsxgkYUcBGig](https://pan.baidu.com/s/1OoNeKcPaYOOsxgkYUcBGig)；
 - 对上述低照度图像进行灰度化，计算并显示以上低照度图像的<font color=red>灰度直方图</font>和<font color=red>离散傅里叶变换频谱幅度图</font>；
 - 对以上低照度图像分别进行<font color=red>直方图均衡化</font>和<font color=red>同态滤波</font>操作，并对两种算法的最终结果进行对比；
-- 利用<font color=red>Matlab</font>进行编程，核心算法需独立实现，代码注释<font color=red>不少于40%</font>;
+- 利用<font color=red>Matlab</font>进行编程，核心算法需独立实现，代码注释<font color=red>不少于40%</font>；
 
 ## 二、实验报告
 
