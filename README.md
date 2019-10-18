@@ -1,7 +1,7 @@
 # 数字图像处理编程作业
 ## 一、作业要求
 
-![低照度图像](./report/低照度图像.jpg)
+![低照度图像](./src/image.jpg)
 
 - [https://pan.baidu.com/s/1OoNeKcPaYOOsxgkYUcBGig](https://pan.baidu.com/s/1OoNeKcPaYOOsxgkYUcBGig)；
 - 对上述低照度图像进行灰度化，计算并显示以上低照度图像的<font color=red>灰度直方图</font>和<font color=red>离散傅里叶变换频谱幅度图</font>；
