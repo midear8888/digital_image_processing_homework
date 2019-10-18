@@ -1,5 +1,5 @@
 % 1. Histogram equalization
-I = imread('低照度图像.jpg');
+I = imread('image.jpg');
 I_gray = rgb2gray(I);
 % Self-implemented function my_histeq
 [I_eq, I_eq_pdf] = my_histeq(I_gray);

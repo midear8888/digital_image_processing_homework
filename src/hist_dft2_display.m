@@ -1,5 +1,5 @@
 % Read image
-img = imread('低照度图像.jpg');
+img = imread('image.jpg');
 % Switch to grayscale image
 img_gray = rgb2gray(img);
 
