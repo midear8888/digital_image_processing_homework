@@ -1,4 +1,4 @@
-![hust3](/home/singngai/Pictures/hust3.png)
+![hust3](./pictures/hust3.png)
 
 <center><font size=12>《数字图像处理》</font><center>
 <center><font size=12>编程作业</font></center>

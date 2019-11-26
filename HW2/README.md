@@ -1,4 +1,4 @@
-![hust3](/home/singngai/Pictures/hust3.png)
+![hust3](../pictures/hust3.png)
 
 
 
